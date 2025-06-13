@@ -1,4 +1,4 @@
-Thanks for sharing! That’s the default **Laravel project README**, which is great for the Laravel framework itself — but if your project is a **Laravel E-commerce Website**, you'll want a **customized README** that focuses on your *E-commerce functionality*, *features*, and *project-specific setup*.
+ **Laravel project README**, which is great for the Laravel framework itself — but if your project is a **Laravel E-commerce Website**, you'll want a **customized README** that focuses on your *E-commerce functionality*, *features*, and *project-specific setup*.
 
 Here's a **complete and enhanced README.md** tailored for your **Laravel E-commerce Website** project, while still respecting Laravel's branding and structure:
 
